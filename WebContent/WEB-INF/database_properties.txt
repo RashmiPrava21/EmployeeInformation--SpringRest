@@ -1,0 +1,3 @@
+db.url=oracle.jdbc.driver.OracleDriver
+db.username=hr
+db.password=hr
